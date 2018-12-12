@@ -1,0 +1,24 @@
+body {
+  background: url("../img/schemabck.jpg");
+  Width:  100%;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #951D1F;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  background-color: #4A120E;
+  margin-top: 10px;
+}
+
+main .soon{
+  color: black;
+  text-align: center;
+  padding: 20px;
+  background-color: #f1f1f1;
+  margin-top: 100px;
+}

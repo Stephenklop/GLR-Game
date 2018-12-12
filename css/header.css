@@ -1,0 +1,55 @@
+.bck {
+  background-color: #461313;
+}
+
+.navbar-light {
+  color: white;
+}
+
+#navbarNav {
+  justify-content: center;
+  color: black;
+  font-size: 1.3rem;
+}
+
+.h1info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1info h1{
+  font-size: 2rem;
+  margin-top: 2vh;
+}
+
+.row {
+  justify-content: center;
+}
+
+input {
+  width: 80vw;
+  height: 13%;
+  border-radius: 10px;
+  border: none;
+  padding: 8px 16px;
+  margin-top: 10px;
+}
+
+figure img {
+  width: 100%;
+}
+
+main {
+  text-align: center;
+}
+
+p {
+  margin: 15px 10px;
+}
+
+textarea {
+  margin-top: 2vh;
+  border-radius: 10px;
+  padding: 8px 18px;
+}

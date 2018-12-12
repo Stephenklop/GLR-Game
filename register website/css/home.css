@@ -1,0 +1,17 @@
+main p {
+  width: 50%;
+  margin: auto;
+  font-size: 1.3rem;
+}
+
+main figure img {
+  width: 500px;
+  margin-bottom: 10px;
+  border-radius: 20px
+}
+
+@media (max-width: 600px) {
+  main p {
+    width: 90%;
+  }
+}

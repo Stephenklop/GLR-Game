@@ -1,0 +1,13 @@
+.faq {
+  width: 40%;
+  margin: 40px auto 40px auto;
+  text-align: center;
+}
+
+.faq h1 {
+  font-size: 2rem;
+}
+
+.faq ul {
+  list-style-type: none;
+}

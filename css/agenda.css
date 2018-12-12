@@ -1,0 +1,60 @@
+body {
+  background: url("../img/schemabck.jpg");
+  Width:  100%;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #951D1F;
+}
+
+main .soon{
+  color: black;
+  text-align: center;
+  padding: 20px;
+  background-color: #f1f1f1;
+  margin-top: 100px;
+}
+
+/* .item {
+  width: 70%;
+  height: 30vh;
+  background-color: #D2D2D2;
+  margin: 10px auto;
+  border: 3px solid #4A120E;
+  color: black;
+}
+
+.left {
+  width: 25%;
+  height: 100%;
+  float: left;
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+
+.right {
+  width: 75%;
+  height: 100%;
+  float: left;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.right h1 {
+  font-size: 2rem;
+} */
+
+.title {
+  width: 100%;
+  text-align: center;
+  background-color: #4A120E;
+  margin-top: 10px;
+}
+
+@media (max-width: 600px;) {
+  .soon {
+    font-size: 0.9rem;
+  }
